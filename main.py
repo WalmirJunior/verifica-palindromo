@@ -6,7 +6,7 @@ def verifica_palindromo(texto):
   else:
     print(f'{texto} não é palindromo!')
 
-texto=input('digite a palavra: ')
+texto=input('Digite alguma palavra: ')
 verifica_palindromo(texto)
 
 
